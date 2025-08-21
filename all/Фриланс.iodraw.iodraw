@@ -200,7 +200,7 @@
           <mxGeometry x="-1615" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bhoa6J7yBrwbOYEv-cqi-506" value="Озвучка/диктор" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1270" y="1829" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1265" y="1844.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bhoa6J7yBrwbOYEv-cqi-508" value="Созднание музыки и обработка(сведение и прочее)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1345" y="1510" width="225" height="80" as="geometry" />
@@ -212,7 +212,7 @@
           <mxGeometry x="-1615" y="2260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bhoa6J7yBrwbOYEv-cqi-513" value="Нарек&lt;br&gt;&lt;div&gt;карточки для товаров на вб&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1375" y="2260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1265" y="2260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bhoa6J7yBrwbOYEv-cqi-515" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Bhoa6J7yBrwbOYEv-cqi-516" target="Bhoa6J7yBrwbOYEv-cqi-517" edge="1">
           <mxGeometry relative="1" as="geometry" />
