@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 YaBrowser/25.8.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="9c096ad6-e400-ecc8-3e38-643d2caac077">
-    <mxGraphModel dx="3662.5" dy="1205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3066.5" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -179,7 +179,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Bhoa6J7yBrwbOYEv-cqi-495" value="Вова" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1615" y="1829" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1615" y="1829" width="165" height="91" as="geometry" />
         </mxCell>
         <mxCell id="Bhoa6J7yBrwbOYEv-cqi-496" value="шаг 2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1395" y="758" width="50" height="30" as="geometry" />
@@ -200,7 +200,7 @@
           <mxGeometry x="-1615" y="2060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bhoa6J7yBrwbOYEv-cqi-506" value="Озвучка/диктор" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1375" y="1829" width="120" height="60" as="geometry" />
+          <mxGeometry x="-1270" y="1829" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Bhoa6J7yBrwbOYEv-cqi-508" value="Созднание музыки и обработка(сведение и прочее)" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1345" y="1510" width="225" height="80" as="geometry" />
